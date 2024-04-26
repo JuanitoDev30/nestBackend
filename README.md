@@ -45,6 +45,16 @@ $ pnpm run start:dev
 $ pnpm run start:prod
 ```
 
+## Car DealShip
+
+### Populate DB
+
+```bash
+
+https://localhost:3000/seed
+
+```
+
 ## Test
 
 ```bash
